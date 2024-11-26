@@ -8,6 +8,7 @@ This project implements a **Next Word Prediction** system using a Long Short-Ter
 Next Word Prediction is a common application of Natural Language Processing (NLP) that has many real-world applications, including:
 
 Autocomplete in text editors.
+
 Personalized content suggestions.
 
 This project demonstrates how to build, train, and test an LSTM-based model for Next Word Prediction. It also includes an interactive Streamlit application for easy user interaction.
